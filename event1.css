@@ -1,0 +1,10 @@
+ body{
+     background-color: lightpink;
+ }
+ .details{
+        font-size: 20px;
+        margin-left: 50px;
+        text-align: center;
+        word-spacing: 4px;
+        padding: 50px;
+ }
